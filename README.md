@@ -30,7 +30,6 @@ Program ini terdiri dari beberapa kelas yang disimpan dalam satu file (atau bebe
     1. Song A - Artist 1
     2. Song B - Artist 2
     3. Song C - Artist 3
-    Total songs: 3
     Max songs allowed: 100
     ```
 
